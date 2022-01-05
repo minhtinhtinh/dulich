@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dulich/static/css/main.073c9b0a.css",
+    "main.js": "/dulich/static/js/main.8e8943ef.js",
+    "static/js/787.81f56747.chunk.js": "/dulich/static/js/787.81f56747.chunk.js",
+    "static/media/logo.svg": "/dulich/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dulich/index.html",
+    "main.073c9b0a.css.map": "/dulich/static/css/main.073c9b0a.css.map",
+    "main.8e8943ef.js.map": "/dulich/static/js/main.8e8943ef.js.map",
+    "787.81f56747.chunk.js.map": "/dulich/static/js/787.81f56747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e8943ef.js"
+  ]
+}
